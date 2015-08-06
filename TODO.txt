@@ -1,0 +1,4 @@
+
+* Add division instructions.
+* Add utility instructions like memset, strlen, puts, etc.
+
